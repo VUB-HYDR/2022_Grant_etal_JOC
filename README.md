@@ -24,4 +24,4 @@ Where an 'analysisname' indicates:
 
 ## License
 
-This project is licensed under the MIT License. See also the [LICENSE](https://github.com/VUB-HYDR/2022_Grant_etal_JOC/blob/main/LICENSE.md) file.
+This project is licensed under the MIT License. See also the [LICENSE](https://github.com/VUB-HYDR/2022_Grant_etal_JOC/blob/main/mit_license.md) file.
