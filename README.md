@@ -4,7 +4,7 @@
 
 This analysis uses Climate Data Operators (CDO) in bash and Python. 
 
-Python scripts are run on python3. The [environment](https://github.com/VUB-HYDR/2022_Grant_etal_JOC/da.yml) for this analysis is available for installing necessary packages.
+Python scripts are run on python3. The [environment](https://github.com/VUB-HYDR/2022_Grant_etal_JOC/blob/main/da.yml) for this analysis is available for installing necessary packages.
 
 ## For users
 
